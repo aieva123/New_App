@@ -40,7 +40,7 @@ const PricingPage = () => {
               <Link href="/contact" className="text-gray-300 hover:text-purple-300 transition-colors">
                 Contact
               </Link>
-              <Link href="/resume-builder" className="bg-gradient-to-r from-purple-600 to-pink-600 text-white px-6 py-2 rounded-full hover:from-purple-700 hover:to-pink-700 transition-all transform hover:scale-105">
+              <Link href="/builder" className="bg-gradient-to-r from-purple-600 to-pink-600 text-white px-6 py-2 rounded-full hover:from-purple-700 hover:to-pink-700 transition-all transform hover:scale-105">
                 Get Started
               </Link>
             </div>

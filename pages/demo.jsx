@@ -48,7 +48,7 @@ const DemoPage = () => {
               <Link href="/contact" className="text-gray-300 hover:text-purple-300 transition-colors">
                 Contact
               </Link>
-              <Link href="/resume-builder" className="bg-gradient-to-r from-purple-600 to-pink-600 text-white px-6 py-2 rounded-full hover:from-purple-700 hover:to-pink-700 transition-all transform hover:scale-105">
+              <Link href="/builder" className="bg-gradient-to-r from-purple-600 to-pink-600 text-white px-6 py-2 rounded-full hover:from-purple-700 hover:to-pink-700 transition-all transform hover:scale-105">
                 Get Started
               </Link>
             </div>
@@ -290,7 +290,7 @@ const DemoPage = () => {
             Experience the full power of ATSResume with our interactive demo. No signup required!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/resume-builder" className="bg-gradient-to-r from-purple-600 to-pink-600 text-white px-10 py-4 rounded-full text-xl font-semibold hover:from-purple-700 hover:to-pink-700 transition-all transform hover:scale-105 shadow-xl inline-flex items-center justify-center">
+            <Link href="/builder" className="bg-gradient-to-r from-purple-600 to-pink-600 text-white px-10 py-4 rounded-full text-xl font-semibold hover:from-purple-700 hover:to-pink-700 transition-all transform hover:scale-105 shadow-xl inline-flex items-center justify-center">
               <FaPlay className="mr-3" />
               Try Demo Now
             </Link>
